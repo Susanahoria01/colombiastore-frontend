@@ -31,7 +31,7 @@ import { RouterModule } from '@angular/router';
           </div>
           <div class="col-lg-6 text-center">
             <div class="store-icon-container">
-              <img src="/shop.png" alt="ColombiaStore" class="store-image mb-4" title="ColombiaStore">
+              <img src="shop.png" alt="ColombiaStore" class="store-image mb-4" title="ColombiaStore">
             </div>
           </div>
         </div>
